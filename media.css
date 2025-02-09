@@ -7,7 +7,7 @@
 .media{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    background-color: #66696d;
+    background-color: rgb(65, 65, 87);
     align-items: center;
     height: 100vh;
     gap: 50px;
@@ -16,14 +16,13 @@
 }
 
 .video{
-    width: 60%;
-    height: 60%;
+    width: 20%;
+    height: 50%;
     margin-left: 30px;
-    background-color: blue;
+   background-color: blue;
 }
-
 .audio{
-    width: 180%;
+    width: 100%;
     height: 70%;
     margin-left: 30px;
 }
