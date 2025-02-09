@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+
+.media{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #66696d;
+    align-items: center;
+    height: 100vh;
+    gap: 50px;
+    margin-left: 30px;
+    
+}
+
+.video{
+    width: 60%;
+    height: 60%;
+    margin-left: 30px;
+    background-color: blue;
+}
+
+.audio{
+    width: 180%;
+    height: 70%;
+    margin-left: 30px;
+}

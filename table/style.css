@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 10px ;
+    padding: 20px;
+    border: 1px;
+    font-size: 20px;
+    background-color: gray;
+    -webkit-text-fill-color: aliceblue;
+}
+
+.first-row{
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.second-row{
+    margin-top: 30px;
+    padding: 20px;
+
+   
+}
+.third-row{
+    margin-top: 30px;
+    padding: 20px;
+    
+}
+
+.fourth-row{
+    margin-top: 30px;
+    padding: 20px;
+}
+    
